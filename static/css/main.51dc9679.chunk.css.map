@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/app.css"],"names":[],"mappings":"AAAA,oBACI,WAAY,CACZ,YAAa,CACb,kBACJ","file":"main.51dc9679.chunk.css","sourcesContent":[".gif-card-fluid img {\n    width: 14rem;\n    height: 14rem;\n    margin: 0 1rem 1rem 1rem;\n}\n"]}
